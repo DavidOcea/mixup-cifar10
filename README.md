@@ -9,4 +9,5 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 .A PyTorch installation
 ## Training:
 Use python train.py to train a new model. Here is an example setting:
+
 "$ CUDA_VISIBLE_DEVICES=0 python train.py --lr=0.1 --seed=20170922 --decay=1e-4"
